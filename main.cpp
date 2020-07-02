@@ -1,10 +1,7 @@
 /*
-    LLC Simulation program + Q-Learning control
+    LLC Simulation program 
     Fran Piernas Diaz
     Compile with -O2
-
-    Q-Learner tested paramsters: Alpha=0.7, Epsilon=0.0, Gamma=0.15
-    Epsilon must be changed to higher value after enough iterations
 */
 #include <iostream>
 #include <cstdlib>
